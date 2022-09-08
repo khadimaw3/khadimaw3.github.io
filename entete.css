@@ -1,0 +1,13 @@
+.entete{
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	font-style: italic;
+}
+hr{
+
+	background-color: white;
+}
+.alert{
+	color: red;
+}

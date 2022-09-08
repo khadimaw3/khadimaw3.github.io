@@ -1,0 +1,36 @@
+.dalal{
+	text-align: center;
+	color: white;
+	margin-top: 200px;
+	font-style: italic;
+	display: flex;
+	flex-direction: column;
+}
+h1{
+	font-size: 50px;
+}
+body{
+	background-color: grey;
+}
+.bouton{
+
+	margin-left: 500px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	margin-top: 20px;
+
+}
+.btnn{
+	 margin: 5px;
+ 	 padding: 0.25rem 0.5rem;
+ 	 font-size: 0.875rem;
+ 	 line-height: 3;
+ 	 border-radius: 0.2rem;
+ 	 width: 150px;
+ 	 height: 60px;
+ 	 text-decoration: italic;
+ 	 font-style: italic;
+ 	 font-size: 15px;
+
+}
